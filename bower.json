@@ -1,0 +1,24 @@
+{
+  "name": "IonicLearn1",
+  "version": "0.0.1",
+  "homepage": "https://github.com/yunkai-zhu/IonicLearn1",
+  "authors": [
+    "yunkai.zhu@163.com"
+  ],
+  "description": "Ionic学习项目1，熟悉npm/gulp/bower工具使用",
+  "main": "app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.17"
+  }
+}

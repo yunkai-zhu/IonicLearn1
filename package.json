@@ -6,9 +6,6 @@
     "type": "git",
     "url": "https://github.com/yunkai-zhu/IonicLearn1.git"
   },
-  "dependencies": {
-    "requirejs": "^2.1.17"
-  },
   "devDependencies": {
     "del": "^1.1.1",
     "gulp": "^3.8.11",
